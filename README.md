@@ -1,2 +1,2 @@
 # weerstationlucashaegeman
-HHet weer uit Zottegem
+Het weer uit Zottegem
